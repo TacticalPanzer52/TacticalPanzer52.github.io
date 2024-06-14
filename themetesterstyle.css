@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1;
-    background-color: #0060c0;
+    background-color: #101010;
 }
 
 header {
-    background-color: #45a049;
-    color: white;
+    background-color: #FF5000;
+    color: black;
     text-align: left;
     font-family: 'Tahoma', sans-serif;
     font-style: italic;
@@ -22,33 +22,29 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
-    background-color: #2073c5;
+    background-color: #151515;
     margin: 0;
 }
 
 nav ul li {
     margin: 0;
     padding: 0;
-    background-color: #2073c5;
+    background-color: #151515;
 }
 
 nav ul li a {
-    color: lightgray;
+    color: #909090;
     padding: 0.5rem;
     display: block;
     top: 0;
 }
 
 section {
-    color: lightgray;
+    color: #999999;
     text-align: center;
     font-weight: bolder;
-    background-color: #357EC7;
+    background-color: #202020;
     padding: 5%;
-}
-
-section a {
-    color: lightgray;
 }
 
 section2{
@@ -58,7 +54,7 @@ section2{
 footer {
     text-align: center;
     background-color: #0060c0;
-    background: #45a049;
+    background: #FF5000;
     padding: 0%;
     position: fixed;
     width: 100%;
